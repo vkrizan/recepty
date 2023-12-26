@@ -7,5 +7,6 @@
 
 ## Polievky
 
+* [Krémová tekvicová polievka](polievky/tekvicova.md)
 * [Indická rajčinová polievka](polievky/indicka_rajcinova.md)
 
