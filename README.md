@@ -3,6 +3,7 @@
 ## Hlavné jedlá
 
 * [Mexický guláš](hlavne/mexicky_gulas.md)
+* [Losos opečený na panvici](hlavne/losos.md)
 
 ## Polievky
 
