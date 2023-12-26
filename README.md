@@ -10,3 +10,7 @@
 * [Krémová tekvicová polievka](polievky/tekvicova.md)
 * [Indická rajčinová polievka](polievky/indicka_rajcinova.md)
 
+## Dezerty
+
+* [Bryndzové oplátky](dezerty/bryndzove_oplatky.md)
+
