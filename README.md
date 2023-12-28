@@ -4,6 +4,7 @@
 
 * [Mexický guláš](hlavne/mexicky_gulas.md)
 * [Losos opečený na panvici](hlavne/losos.md)
+* [Kapustnica](hlavne/kapustnica.md)
 
 ## Polievky
 
