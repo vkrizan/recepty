@@ -13,5 +13,6 @@
 
 ## Dezerty
 
+* [Perníky](dezerty/perniky.md)
 * [Bryndzové oplátky](dezerty/bryndzove_oplatky.md)
 
