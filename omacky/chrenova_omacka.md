@@ -31,6 +31,6 @@ Potrebujeme: sitko, metlička
 
 ## Poznámky
 
-* Pri variante s hovädzím mäsom (napr. falošnej sviečkovej) získame vývar z jeho dusenia.
+* Pri variante s [hovädzím mäsom (falošnej sviečkovej)](../hlavne/dusene_hovadzie_maso.md) získame vývar z jeho dusenia.
 * Vývar do maslovej zaprášky pridávame postupne, aby nevznikali hrudky.
 * Množstvo chrenu do omáčky pridávame podľa chuti, aby nebola omáčka príliš silná.

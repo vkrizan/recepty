@@ -5,6 +5,7 @@
 * [Mexický guláš](hlavne/mexicky_gulas.md)
 * [Losos opečený na panvici](hlavne/losos.md)
 * [Kapustnica](hlavne/kapustnica.md)
+* [Dusené hovädzie mäso](hlavne/dusene_hovadzie_maso.md) k omáčke
 
 ## Omáčky
 
