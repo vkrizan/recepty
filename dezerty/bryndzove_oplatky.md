@@ -7,9 +7,9 @@ Potrebujeme: oplátkovač, ponorný mixér
 ## Ingrediencie
 
 * 300g hladkej múky špeciál
-* 2 kávovej lyžicky soli
+* 2 kávové lyžičky soli
 * 1 vajce
-* 2 lyžicky mletej rasce
+* 2 lyžičky mletej rasce
 * ~4dcl mlieka
 * 125g bryndze
 * 2 lyžice masla, rozpusteného
@@ -24,7 +24,7 @@ Potrebujeme: oplátkovač, ponorný mixér
    vodou.
 4. Zmes rozmixujeme mixérom. Podľa potreby pridáme mlieko a vodu.
    Necháme odstáť asi hodinu.
-5. Pred pečením znova rozmixujeme.  Mlieko a vodu možeme pridať na
+5. Pred pečením znova rozmixujeme. Mlieko a vodu môžeme pridať na
    dosiahnutie požadovanej konzistencie.
 6. Oplátkujeme...
 
@@ -32,5 +32,5 @@ Potrebujeme: oplátkovač, ponorný mixér
 ## Poznámky
 
 * Ingrediencie je dobré mať izbovej teploty.
-* Konzistenicia rozmiešanej zmesy má byť hustejšia ako palacinková
+* Konzistencia rozmiešanej zmesy má byť hustejšia ako palacinková
   zmes.

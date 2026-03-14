@@ -4,7 +4,7 @@ Zdroj: @jdobes
 
 *Doba prípravy: ~2 dni*
 
-60-70 períkov
+60-70 perníkov
 
 Potrebujeme: valec na cesto, vykrajovač perníkov, potravinovú fóliu, pečiaci papier.
 
@@ -13,7 +13,7 @@ Potrebujeme: valec na cesto, vykrajovač perníkov, potravinovú fóliu, pečiac
 * 2 lyžice medu
 * 1 lyžička sódy bicarbona
 * 500g hladkej múky
-* 200g práškového curku
+* 200g práškového cukru
 * 100g masla
 * 3+1 vajec
 * 1 lyžička škorice

@@ -22,7 +22,7 @@ Potrebujeme: tyčový mixér
 * oregáno
 * muškátový oriešok *
 * chilli *
-* slnečnicové / tekvicové semiačka *
+* slnečnicové / tekvicové semienka *
 
 ## Postup
 
@@ -35,11 +35,11 @@ Potrebujeme: tyčový mixér
 4. Keď už je zelenina zmäknutá, hrniec odstavíme z ohňa a ponorným
    mixérom dobre rozmixujeme.
 5. Vrátime späť na mierny oheň a vmiešame lyžicu smotany na šľahanie.
-6. Na záver pridáme štipku oregana, muškátového orieška a podľa chuti
+6. Na záver pridáme štipku oregána, muškátového orieška a podľa chuti
    mleté chilli. Prevaríme ešte 2 minúty a môžeme servírovať.
 
 
 ## Poznámky
 
 * Čím viac pridanej vody/vývaru, tým bude polievka riedšia.
-* Podávame s opraženými semiačkami alebo krutónmi.
+* Podávame s opraženými semienkami alebo krutónmi.

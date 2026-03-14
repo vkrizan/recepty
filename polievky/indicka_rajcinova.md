@@ -19,8 +19,8 @@ Potrebujeme: mixér, sito
 * štipka cukru
 * čierne korenie
 * škorica
-* curry korenie / talianske bilinky
-* 2-4 polievkové lyžice smotany (na šlahanie)
+* curry korenie / talianske bylinky
+* 2-4 polievkové lyžice smotany (na šľahanie)
 
 ## Postup
 
@@ -28,10 +28,10 @@ Potrebujeme: mixér, sito
    list, strúčiky cesnaku a cibuľu. Opečte ich na silnom plameni 3 až 4 minúty, kým sa trochu neopečú.
 2. Pridajte paradajky, mrkvu a osoľte.
 3. Pridajte bazalku a varte, dokým paradajky a cibuľa úplne nezmäknú.
-4. Nechajte zmes vychladnúť Vyhoďte bazalku a bobkový list.
+4. Nechajte zmes vychladnúť. Vyhoďte bazalku a bobkový list.
 5. Preneste do mixéra a nalejte 1 pohár vody. Mixujte do hladkej kaše.
 6. Preceďte premixovanú zmes do hrnca, a varte na strednom ohni.
-7. Pridajte koreniny (a bilinky).
+7. Pridajte koreniny (a bylinky).
 8. Keď sa polievka začne variť, nechajte ju dusiť 2 až 3
    minúty. Potom postupne vmiešajte zmes škrobu, a pridajte cukor.
 9. Varte dokým polievka nezhustne a chuť škrobu nezmizne. Osoľte

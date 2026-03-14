@@ -12,7 +12,7 @@ Potrebujeme: veľký hrniec
 * 2 cibule, nadrobno
 * 3 strúčiky cesnaku, nadrobno
 * 3 bobkové listy
-* 500g bravčovéha mäsa, na kocky
+* 500g bravčového mäsa, na kocky
 * čierne korenie
 * soľ
 * 1 lyžica mletej papriky
@@ -40,4 +40,4 @@ Potrebujeme: veľký hrniec
 
 ## Poznámky
 
-* Kapustincu môžeme zahustiť nastrúhaním zemiaku.
+* Kapustnicu môžeme zahustiť nastrúhaním zemiaku.

@@ -30,9 +30,9 @@ Potrebujeme: lis na cesnak
 3. Potom zaprašíme múkou a posypeme paprikou. Podľa chuti pridáme
    chilli.
 4. Premiešame a podlejeme vriacou vodou.
-5. Osolíme, okoreníme. Hrnec prikryjeme a dusíme asi hodinu a pól.
+5. Osolíme, okoreníme. Hrnec prikryjeme a dusíme asi hodinu a pol.
    V prípade potreby prilievame vodu.
-6. Asi po hodine dusenia pridáme prelisovaý cesnak a malý pretlak.
+6. Asi po hodine dusenia pridáme prelisovaný cesnak a malý pretlak.
 7. Ku koncu dusenia pridáme hrášok bez nálevu.
 8. Necháme prejsť varom a môžeme servírovať. Podávame s ryžou.
    Porciu posypeme strúhaným syrom.
