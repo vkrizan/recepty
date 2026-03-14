@@ -6,6 +6,10 @@
 * [Losos opečený na panvici](hlavne/losos.md)
 * [Kapustnica](hlavne/kapustnica.md)
 
+## Omáčky
+
+* [Chrenová omáčka](omacky/chrenova_omacka.md)
+
 ## Polievky
 
 * [Krémová tekvicová polievka](polievky/tekvicova.md)
